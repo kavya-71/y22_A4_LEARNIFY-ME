@@ -2,7 +2,7 @@ import { initializeApp } from "firebase/app";
 import { getAnalytics } from "firebase/analytics";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCJ6ppWepPoZdJozAwlTvLBb8YednjAxd4",
+  apiKey: 'YOUR_API',
   authDomain: "learnifyme-c5965-c02c3.firebaseapp.com",
   databaseURL: "https://learnifyme-c5965-default-rtdb.firebaseio.com",
   projectId: "learnifyme-c5965",
